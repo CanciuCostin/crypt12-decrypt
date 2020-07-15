@@ -21,7 +21,7 @@ Decrypt Whatsapp crypt12  sqlite database files
 
 ## Usage example
 
-1. Ensure you have the key file (**key**) and crypt12 file (**msgstore.db.crypt12**) in the same directory with the go entrypoint
+1. Ensure you have the key file (**key**) and crypt12 file (**msgstore.db.crypt12**) in the same directory with the go entrypoint. You can use the existing key and msgstore files in the repo for testing.
 * Run using GO:
 ```
 go run crypt12-decrypt
