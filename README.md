@@ -17,6 +17,8 @@ Decrypt Whatsapp crypt12  sqlite database files
 
 * the resulted plain bytes need to be decompressed in order to obtain the final SQLite .db file
 
+* for more information you can check [A Systems Approach to Cyber Security: Proceedings of the 2nd Singapore Cyber-Security R&D Conference (SG-CRC 2017)](https://books.google.ro/books?id=RUXiDgAAQBAJ&pg=PR7&lpg=PR7&dq=A+Systems+Approach+to+Cyber+Security:+Proceedings+of+the+2nd+Singapore+Cyber-Security+R%26D+Conference+(SG-CRC+2017)&source=bl&ots=vWJcT_nFMa&sig=ACfU3U1Tmj6ui8lYaPPZIY7fGz4UwAIN6w&hl=en&sa=X&ved=2ahUKEwjKpannwc_qAhWok4sKHTrNDtAQ6AEwBXoECBIQAQ#v=onepage&q=A%20Systems%20Approach%20to%20Cyber%20Security%3A%20Proceedings%20of%20the%202nd%20Singapore%20Cyber-Security%20R%26D%20Conference%20(SG-CRC%202017)&f=false)
+
 ## Usage example
 
 1. Ensure you have the key file (**key**) and crypt12 file (**msgstore.db.crypt12**) in the same directory with the go entrypoint
