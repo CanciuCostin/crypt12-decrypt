@@ -8,10 +8,12 @@ Decrypt Whatsapp crypt12  sqlite database files
 
 * AES GCM mode encryption using 128 bit block size and 16 bytes IV (nonce)
 
-* key file must be 158 byte long
+* key file must be 158 byte long (only last 32bytes represent the key)
+
 ![Key](key.png?raw=true "Key")
 
 * crypt12 file includes 57 byte header and 20 byte trailer which needs to be removed
+
 ![crypt12file](crypt12file.png?raw=true "crypt12 file")
 
 * the resulted plain bytes need to be decompressed in order to obtain the final SQLite .db file
