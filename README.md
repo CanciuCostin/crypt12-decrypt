@@ -1,6 +1,5 @@
-# Crypt12 Decrypt
-
 ![GO][go-shield]
+# Crypt12 Decrypt
 
 Decrypt Whatsapp crypt12  sqlite database files
 
