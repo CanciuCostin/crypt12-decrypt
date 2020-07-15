@@ -1,6 +1,6 @@
 /*
 Author: Costin Canciu
-Entrypoint: crypt12.go
+Entrypoint: crypt12-decrypt.go
 Description: Decrypt Whatsapp .crypt12 database files
 */
 
