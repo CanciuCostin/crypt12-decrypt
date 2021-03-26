@@ -11,7 +11,7 @@ Decrypt Whatsapp crypt12  sqlite database files
 
 ![Key](key.png?raw=true "Key")
 
-* crypt12 file includes 57 byte header and 20 byte trailer which needs to be removed
+* crypt12 file includes 67 byte header and 20 byte trailer which needs to be removed
 
 ![crypt12file](crypt12file.png?raw=true "crypt12 file")
 
